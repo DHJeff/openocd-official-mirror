@@ -98,3 +98,6 @@ TAGS
 
 # ctags tag files
 tags
+
+# OSX files
+.DS_Store
